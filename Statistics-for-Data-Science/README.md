@@ -1,4 +1,4 @@
-**Group Project: Statistics for Data Science Course** \
+**Group Project for Statistics for Data Science Course** \
 *Author: Craig Vande Ligt*
 
 **Topic:** Predictors of Entry into Medication-Assisted Therapy Based on Diagnoses of Opioid Dependence \
